@@ -1,0 +1,12 @@
+body {
+  background-color: red;
+}
+
+div {
+  border-style: groove;
+  font-style: Arial Black;
+}
+
+#id {
+  font-style: Arial Black;
+}
